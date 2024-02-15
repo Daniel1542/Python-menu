@@ -23,3 +23,8 @@ Este é um menu simples em Python que permite ao usuário selecionar diferentes 
     ```
 
 4. Siga as instruções exibidas no console para selecionar uma opção.
+
+## Licença
+
+Licenciado sob a [licença MIT](https://opensource.org/licenses/MIT).
+
